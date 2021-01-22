@@ -1,3 +1,8 @@
+### Jobsearch API Monster
+https://partner.monster.com/job-search#Job-Search-API
+
+
+
 # Node Deployment Module Project
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
@@ -7,6 +12,8 @@ In this challenge, you will **deploy** an API of your choosing to `heroku`.
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
 
 ### Task 1: Minimum Viable Product
+https://partner.monster.com/job-search#Job-Search-API
+https://partner.monster.com/developers
 
 Pick any API, could be one of your past projects, and deploy it to `heroku`.
 
